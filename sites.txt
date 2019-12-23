@@ -1,0 +1,7 @@
+# O primeiro parece ser o melhor
+https://www.youtube.com/watch?v=FdlbsXe0p3M
+
+
+https://runestone.academy/runestone/books/published/thinkcspy/WebApps/07-InputForAFlaskWebApplication.html
+https://github.com/krishnaik06/Deployment-flask
+https://www.kdnuggets.com/2019/01/build-api-machine-learning-model-using-flask.html
