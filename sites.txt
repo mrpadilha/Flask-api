@@ -1,4 +1,24 @@
 # O primeiro parece ser o melhor
+
+# Install Postman app
+
+- https://www.getpostman.com/downloads/
+
+# Use a Google Account
+
+1 - Use o método POST
+2 - Use a url http://192.168.2.234:5000/predict_api
+3 - Clique em body, selecione raw e JSON, então envie o seguinte json
+
+{"experience":2, "test_score":5, "interview_score":6}
+
+Detalhe: Aspas duplas
+
+4 - Você envia um json e recebe outro json
+
+
+
+
 https://www.youtube.com/watch?v=FdlbsXe0p3M
 
 
